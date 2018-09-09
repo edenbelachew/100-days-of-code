@@ -12,3 +12,5 @@
 
 **Today's Progress**:Completed adding images, external and internal links, nest an anchor element, dead links and turn an image into link.  
 **Thoughts:** I lerned the topics faster than I expected and more excitement learning about HTML.
+
+**Link to work:** [Day 2 Twitter](https://twitter.com/Eden_Belachew/status/1038856551442857987)
